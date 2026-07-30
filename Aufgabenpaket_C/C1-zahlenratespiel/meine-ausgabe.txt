@@ -1,0 +1,2 @@
+Versuchen Sie eine natürliche Zahl zu erraten. Sie liegt zwischen 0 und 100.
+Ihr 1. Versuch
