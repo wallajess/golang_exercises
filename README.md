@@ -1,1 +1,2 @@
-# Exercises in golang for the Einführung in die imperative Programmierung course
+# Exercises in golang 
+For the Einführung in die imperative Programmierung course WS2024/25
